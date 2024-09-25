@@ -1,0 +1,10 @@
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\bin\Release\ProcessKiller.exe.config
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\bin\Release\ProcessKiller.exe
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\bin\Release\ProcessKiller.pdb
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.csproj.AssemblyReference.cache
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.Form1.resources
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.Properties.Resources.resources
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.csproj.GenerateResource.cache
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.csproj.CoreCompileInputs.cache
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.exe
+C:\Users\genom\OneDrive\Documentos\Cursos\SEXTO CICLO\SISTEMAS OPERATIVOS\ProcessKiller\ProcessKiller\obj\Release\ProcessKiller.pdb
